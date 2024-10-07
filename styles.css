@@ -151,7 +151,7 @@ button:hover {
 }
 
 .modal-content {
-  background-color: #ffecd1;
+  background-color: #00000086;
   color: #333;
   padding: 3rem;
   border-radius: 20px;
@@ -163,7 +163,7 @@ button:hover {
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
   transform: scale(0.8) rotate(-5deg);
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  border: 5px solid #ff9a9e;
+  border: 2px solid #ff9a9e;
   position: relative;
 }
 
@@ -197,7 +197,7 @@ button:hover {
 
 .modal-content p {
   font-size: 1.2rem;
-  color: #555;
+  color: #ffffff;
   font-family: 'Comic Sans MS', cursive;
   margin-bottom: 2rem;
   line-height: 1.6;
